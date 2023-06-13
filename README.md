@@ -1,2 +1,2 @@
-# Litter Surveillance
- Drone software for detecting, mapping, and analyzing litter.
+# Litterbug
+ Drone project for mapping and analyzing litter detections.
